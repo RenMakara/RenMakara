@@ -2,7 +2,7 @@
 
 > Backend-focused Fullstack Developer · Phnom Penh, Cambodia 🇰🇭
 
-I build scalable APIs and microservices with Java & Spring Boot, and craft clean frontends with Next.js and React. Currently studying IT at ACLEDA University of Business while shipping real-world systems.
+I build scalable APIs and microservices with Java & Spring Boot, and craft clean frontends with Next.js and React. 4th-year IT student at **ACLEDA University of Business**, with Spring Microservices training at **ISTAD**.
 
 ---
 
@@ -13,6 +13,8 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-177245?style=flat&logo=mongodb&logoColor=white)
+
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
@@ -24,6 +26,10 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white)
 
 ---
 
@@ -31,31 +37,17 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Stadoor API Gateway**](https://github.com/RenMakara/stadoor-apigateway) | Production-grade API gateway with JWT auth, service discovery, and reverse proxy routing | Spring Cloud Gateway · Eureka · Docker · GitHub Actions |
-| [**YouthHub**](https://github.com/RenMakara/youthhub) | Super app for Cambodian youth — modular monolith with services for jobs, events, and community | Spring Boot 3 · Flutter · PostgreSQL · Railway |
-| [**Time To Shop**](https://github.com/RenMakara/timetoshop) | Full-stack e-commerce platform with product management and cart system | Spring Boot · Next.js · React |
-| [**Library Management System**](https://github.com/RenMakara/library-management) | Book borrowing and inventory system with role-based access | Spring Boot · PostgreSQL |
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenMakara&show_icons=true&theme=tokyonight&hide_border=true" alt="Ren Makara's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenMakara&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RenMakara&theme=tokyonight&hide_border=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=RenMakara&theme=tokyonight&no-frame=true&row=1)
+| [**AuthGate**](https://github.com/RenMakara/authgate) | A developer security platform where identity, dynamic API gateway routing, and route-level protection are managed as one flow. | Spring Cloud Gateway · AxonIQ · Redis · Kafka · Mongo · Postgres · Docker · GitHub Actions |
+| [**GenLink**](https://github.com/RenMakara/campuslinkkh) | Super app for Cambodian youth — modular monolith with services for jobs, events, and community | Spring Boot 3.x · Flutter · PostgreSQL · Liquibase |
 
 ---
 
 ## 🌱 Currently
 
+- 🔨 Building **GenLink** — Super app for Cambodian youth — modular monolith with services for jobs, events, and community.
+- 🔨 Building **AuthGate** A developer security platform where identity, dynamic API gateway routing, and route-level protection are managed as one flow.
 - 📚 Deepening knowledge in **DDD, CQRS, and Event Sourcing** with Axon Framework
-- 🏗 Refining the **Stadoor API Gateway** reverse proxy architecture
-- 🎓 Finishing my Bachelor's in IT at **ACLEDA University of Business**
+- 🎓 4th-year IT student at **ACLEDA University of Business**
 
 ---
 
