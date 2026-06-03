@@ -51,6 +51,13 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 
 ---
 
+## 🤝 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-RenMakara-181717?style=flat&logo=github)](https://github.com/RenMakara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ren_Makara-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ren-makara-0280aa324/)
+[![Facebook](https://img.shields.io/badge/Facebook-@ragangster-1877F2?style=flat&logo=facebook)](https://www.facebook.com/ragangster.1/)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake-dark.svg" />
@@ -58,9 +65,3 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
     srcset="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-RenMakara-181717?style=flat&logo=github)](https://github.com/RenMakara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ren_Makara-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ren-makara-0280aa324/)
-[![Facebook](https://img.shields.io/badge/Facebook-@ragangster-1877F2?style=flat&logo=facebook)](https://www.facebook.com/ragangster.1/)
