@@ -57,6 +57,10 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ren_Makara-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ren-makara-0280aa324/)
 [![Facebook](https://img.shields.io/badge/Facebook-@ragangster-1877F2?style=flat&logo=facebook)](https://www.facebook.com/ragangster.1/)
 
+---
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=80&section=header&fontSize=0" />
 
 <div align="center">
   <picture>
@@ -67,3 +71,5 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
     <img alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=80&section=footer&fontSize=0" />
