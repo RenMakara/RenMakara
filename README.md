@@ -51,6 +51,14 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-RenMakara-181717?style=flat&logo=github)](https://github.com/RenMakara)
