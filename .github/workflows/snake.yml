@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← fixes the warning
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -12,7 +15,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.2.2         # ← pinned to latest Node 24 compatible version
 
       - uses: Platane/snk@v3
         with:
