@@ -58,8 +58,7 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
 [![Facebook](https://img.shields.io/badge/Facebook-@ragangster-1877F2?style=flat&logo=facebook)](https://www.facebook.com/ragangster.1/)
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=80&section=header&fontSize=0" />
-
+<h2 align="center">🐍 Eating my contributions...</h2>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -69,5 +68,3 @@ I build scalable APIs and microservices with Java & Spring Boot, and craft clean
     <img alt="Snake animation" width="100%" src="https://raw.githubusercontent.com/RenMakara/RenMakara/output/dist/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=80&section=footer&fontSize=0" />
