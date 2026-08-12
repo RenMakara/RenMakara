@@ -1,37 +1,115 @@
 # Ren Makara
 
-Backend-focused Fullstack Developer · Phnom Penh, Cambodia
+**Backend-Focused Fullstack Developer · Java & Spring Boot**
 
-Building scalable APIs with Java & Spring Boot, and clean frontends with Next.js and React.  
-4th-year IT student at ACLEDA University of Business. Trained in Spring Microservices at ISTAD.
+I’m a backend-focused software developer specializing in **Java, Spring Boot, and microservice architecture**. I build REST APIs, authentication systems, and distributed services with a focus on clean architecture, scalability, and maintainability.
 
----
-
-### Tech Stack
-
-**Backend:** Java, Spring Boot, Spring Cloud, PostgreSQL, MongoDB  
-**Frontend:** Next.js, React, TypeScript, Flutter  
-**DevOps & Tools:** Docker, GitHub Actions, JWT, Git, Postman, Liquibase
+Currently pursuing my **4th year of IT at ACLEDA University of Business** and trained in **Spring Microservices at ISTAD**.
 
 ---
 
-### Projects
+## Technical Skills
 
-**[AuthGate](https://github.com/RenMakara/authgate)** — Developer security platform with identity, dynamic API gateway routing, and route-level protection.  
-`Spring Cloud Gateway · AxonIQ · Redis · Kafka · MongoDB · PostgreSQL · Docker`
+**Backend**
+Java · Spring Boot · Spring Cloud · Spring Security · REST APIs · JPA / Hibernate
 
-**[GenLink](https://github.com/RenMakara/campuslinkkh)** — Super app for Cambodian youth: jobs, events, and community.  
-`Spring Boot 3.x · Flutter · PostgreSQL · Liquibase`
+**Architecture**
+Microservices · DDD · CQRS · Event-Driven Architecture · OAuth2 · JWT
+
+**Data & Messaging**
+PostgreSQL · MongoDB · Redis · Apache Kafka
+
+**Frontend**
+Next.js · React · TypeScript · Flutter
+
+**DevOps & Tools**
+Docker · GitHub Actions · Git · Liquibase · Nginx · Postman
 
 ---
 
-### Currently
+## Featured Projects
 
-- Building **GenLink** and **AuthGate**
-- Learning **DDD, CQRS, and Event Sourcing** with Axon Framework
+### AuthGate — Security & API Gateway Platform
+
+[Repository](https://github.com/RenMakara/authgate)
+
+A backend platform focused on **identity management, API gateway routing, and route-level access control**.
+
+**Key areas:**
+
+* Microservice-based architecture
+* OAuth2 / JWT authentication
+* Dynamic API gateway routing
+* Route-level authorization
+* CQRS with Axon Framework
+* Event-driven communication
+* Redis and Kafka integration
+* PostgreSQL and MongoDB
+* Docker-based infrastructure
+
+**Stack:**
+`Java` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `Axon Framework` `Kafka` `Redis` `PostgreSQL` `MongoDB` `Docker`
 
 ---
 
-### Connect
+### GenLink — Youth Community Platform
 
-[GitHub](https://github.com/RenMakara) · [LinkedIn](https://www.linkedin.com/in/ren-makara-0280aa324/) · [Facebook](https://www.facebook.com/ragangster.1/)
+[Repository](https://github.com/RenMakara/campuslinkkh)
+
+A platform designed for **Cambodian youth**, bringing together jobs, events, and community features.
+
+**Key areas:**
+
+* RESTful backend services
+* PostgreSQL data management
+* Database versioning with Liquibase
+* Flutter mobile application
+* Docker-based development environment
+
+**Stack:**
+`Java` `Spring Boot` `PostgreSQL` `Liquibase` `Flutter` `Docker`
+
+---
+
+## Current Focus
+
+```text
+Backend Engineering
+├── Java & Spring Boot
+├── Spring Cloud & Microservices
+├── Domain-Driven Design
+├── CQRS & Event Sourcing
+├── Event-Driven Architecture
+├── Spring Security & OAuth2
+└── Docker & CI/CD
+```
+
+I’m continuously improving my understanding of **distributed systems, backend architecture, and production-ready software engineering**.
+
+---
+
+## Career Interests
+
+I’m interested in opportunities involving:
+
+* Java / Spring Boot development
+* Backend engineering
+* Microservices
+* Distributed systems
+* API development
+* Cloud-native applications
+* Software architecture
+
+---
+
+## Connect
+
+**GitHub** · [RenMakara](https://github.com/RenMakara)
+
+**LinkedIn** · [Ren Makara](https://www.linkedin.com/in/ren-makara-0280aa324/)
+
+**Facebook** · [Ren Makara](https://www.facebook.com/ragangster.1)
+
+---
+
+*Building reliable backend systems and learning how distributed software works at scale.* 🚀
